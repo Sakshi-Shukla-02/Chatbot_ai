@@ -4,6 +4,16 @@ This is a simple and interactive **AI chatbot web application** built using **Re
 
 ---
 
+
+
+
+
+<img width="1915" height="868" alt="Screenshot 2025-08-15 135147" src="https://github.com/user-attachments/assets/03859c1a-afda-4408-b27f-f8e24505aa15" />
+
+
+
+
+
 ## 🚀 Features
 
 - 💬 One-to-one AI conversation
